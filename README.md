@@ -25,5 +25,4 @@ Flutter applications developed as part of the Mobile Development course (HAI912I
 - Aness RABIA
 - Ibrahim HARCHA
 
-## License
-MIT License
+
