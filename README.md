@@ -1,16 +1,29 @@
-# weather_app
+# Quiz and Weather Applications
 
-A new Flutter project.
+Flutter applications developed as part of the Mobile Development course (HAI912I) at the University of Montpellier.
 
-## Getting Started
+## Projects
 
-This project is a starting point for a Flutter application.
+### Quiz App
+- Interactive quiz application with dynamic questions
+- Features: Score tracking, user profiles, and results page
+- State management using Provider and BLoC patterns
 
-A few resources to get you started if this is your first Flutter project:
+### Weather App
+- Real-time weather information using OpenWeatherMap API
+- Features: City search, current weather, and 5-day forecast
+- iOS-style interface with animations and localization
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Technologies
+- Flutter
+- Dart
+- HTTP API integration
+- Provider & BLoC patterns
+- iOS & Material Design
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Authors
+- Aness RABIA
+- Ibrahim HARCHA
+
+## License
+MIT License
