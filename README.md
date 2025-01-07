@@ -7,7 +7,7 @@ Flutter applications developed as part of the Mobile Development course (HAI912I
 ### Quiz App
 - Interactive quiz application with dynamic questions
 - Features: Score tracking, user profiles, and results page
-- State management using Provider and BLoC patterns
+
 
 ### Weather App
 - Real-time weather information using OpenWeatherMap API
@@ -18,7 +18,6 @@ Flutter applications developed as part of the Mobile Development course (HAI912I
 - Flutter
 - Dart
 - HTTP API integration
-- Provider & BLoC patterns
 - iOS & Material Design
 
 ## Authors
